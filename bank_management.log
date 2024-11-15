@@ -1,0 +1,134 @@
+2024-11-04 13:28:48,510 - INFO - User 540001 logged in successfully.
+2024-11-04 13:29:03,540 - INFO - User 540001 logged in successfully.
+2024-11-04 13:37:22,529 - INFO - User 540001 logged in successfully.
+2024-11-04 13:37:31,081 - WARNING - Attempted operation without login.
+2024-11-04 13:37:34,071 - WARNING - Attempted operation without login.
+2024-11-04 13:37:39,057 - WARNING - Attempted operation without login.
+2024-11-04 13:38:00,399 - WARNING - Attempted operation without login.
+2024-11-04 13:38:01,688 - WARNING - Attempted operation without login.
+2024-11-04 13:38:02,239 - WARNING - Attempted operation without login.
+2024-11-04 13:38:02,613 - WARNING - Attempted operation without login.
+2024-11-04 13:38:03,008 - WARNING - Attempted operation without login.
+2024-11-04 13:38:03,360 - WARNING - Attempted operation without login.
+2024-11-04 13:47:55,138 - INFO - User 540001 logged in successfully.
+2024-11-04 13:48:01,035 - ERROR - An error occurred in main menu: 'BankOperation' object has no attribute 'is_logged_in'
+2024-11-04 13:48:01,037 - INFO - Database connection closed.
+2024-11-04 14:00:23,658 - INFO - User 540001 logged in successfully.
+2024-11-04 14:05:35,529 - INFO - User 540001 logged in successfully.
+2024-11-04 14:05:37,993 - INFO - Balance check for account 540001. Balance: 5080.00
+2024-11-04 14:05:37,993 - INFO - Balance check operation completed.
+2024-11-04 14:05:51,569 - INFO - Database connection closed.
+2024-11-04 14:05:51,570 - INFO - User logged out.
+2024-11-04 14:06:06,209 - WARNING - Failed login attempt.
+2024-11-04 14:06:39,816 - WARNING - Failed login attempt.
+2024-11-05 10:34:53,313 - INFO - Account 540003 created successfully for user gagan.
+2024-11-05 10:37:03,684 - ERROR - Invalid email format during signup.
+2024-11-05 10:38:04,620 - ERROR - Invalid phone number format during signup.
+2024-11-05 22:36:36,598 - ERROR - Invalid email format during signup.
+2024-11-05 22:37:55,778 - WARNING - Failed login attempt.
+2024-11-05 22:38:14,418 - INFO - User 540001 logged in successfully.
+2024-11-05 22:38:18,465 - INFO - Balance check for account 540001. Balance: 5080.00
+2024-11-05 22:38:18,466 - INFO - Balance check operation completed.
+2024-11-06 08:29:54,228 - INFO - User 540001 logged in successfully.
+2024-11-06 08:30:03,319 - INFO - Balance check for account 540001. Balance: 5080.00
+2024-11-06 08:30:03,319 - INFO - Balance check operation completed.
+2024-11-06 08:30:05,612 - ERROR - Error fetching transaction history for account 540001: (1054, "Unknown column 'timestamp' in 'field list'")
+2024-11-06 08:30:05,613 - INFO - No transactions found for account 540001
+2024-11-06 08:30:15,227 - INFO - Deposit of 220 made to account 540001. New balance: 5300.00
+2024-11-06 08:30:15,228 - INFO - Deposit operation completed.
+2024-11-06 08:30:18,200 - ERROR - Error fetching transaction history for account 540001: (1054, "Unknown column 'timestamp' in 'field list'")
+2024-11-06 08:30:18,201 - INFO - No transactions found for account 540001
+2024-11-06 08:32:51,662 - WARNING - Withdrawal of 70000 failed due to insufficient funds in account 540001.
+2024-11-06 08:32:51,662 - INFO - Withdrawal operation completed.
+2024-11-06 08:32:58,402 - INFO - Withdrawal of 200 made from account 540001. New balance: 5100.00
+2024-11-06 08:32:58,402 - INFO - Withdrawal operation completed.
+2024-11-06 08:33:03,201 - INFO - Balance check for account 540001. Balance: 5100.00
+2024-11-06 08:33:03,201 - INFO - Balance check operation completed.
+2024-11-06 08:33:11,690 - INFO - Transfer of 100 from account 540001 to account 540002 successful.
+2024-11-06 08:33:11,691 - INFO - Transfer operation completed.
+2024-11-06 08:33:15,686 - INFO - Balance check for account 540001. Balance: 5000.00
+2024-11-06 08:33:15,686 - INFO - Balance check operation completed.
+2024-11-06 08:33:18,404 - ERROR - Error fetching transaction history for account 540001: (1054, "Unknown column 'timestamp' in 'field list'")
+2024-11-06 08:33:18,405 - INFO - No transactions found for account 540001
+2024-11-06 08:33:27,740 - INFO - Database connection closed.
+2024-11-06 08:33:27,740 - INFO - User logged out.
+2024-11-06 08:37:31,188 - INFO - User 540001 logged in successfully.
+2024-11-06 08:37:35,167 - INFO - Displayed transaction history for account 540001
+2024-11-06 08:37:47,185 - INFO - Balance check for account 540001. Balance: 5000.00
+2024-11-06 08:37:47,185 - INFO - Balance check operation completed.
+2024-11-06 08:37:50,443 - INFO - Database connection closed.
+2024-11-06 08:37:50,443 - INFO - User logged out.
+2024-11-06 10:56:47,949 - WARNING - Failed login attempt.
+2024-11-06 10:58:02,662 - INFO - User 540001 logged in successfully.
+2024-11-06 10:58:19,565 - WARNING - Transfer of 2 from account 540001 to account 50002 failed.
+2024-11-06 10:58:19,566 - INFO - Transfer operation completed.
+2024-11-06 11:22:29,598 - INFO - User 540001 logged in successfully.
+2024-11-06 11:22:33,528 - INFO - Balance check for account 540001. Balance: 5000.00
+2024-11-06 11:22:33,528 - INFO - Balance check operation completed.
+2024-11-06 11:22:38,194 - ERROR - Invalid receiver account number entered: 560
+2024-11-06 11:23:06,010 - INFO - Transfer of 20 from account 540001 to account 540002 successful.
+2024-11-06 11:23:12,743 - INFO - Balance check for account 540001. Balance: 4980.00
+2024-11-06 11:23:12,743 - INFO - Balance check operation completed.
+2024-11-06 11:23:21,510 - INFO - Deposit of 2220 made to account 540001. New balance: 7200.00
+2024-11-06 11:23:21,510 - INFO - Deposit operation completed.
+2024-11-06 11:23:31,922 - INFO - Withdrawal operation completed.
+2024-11-06 11:23:40,823 - WARNING - Withdrawal of 90000 failed due to insufficient funds in account 540001.
+2024-11-06 11:23:40,824 - INFO - Withdrawal operation completed.
+2024-11-06 11:23:47,529 - INFO - Withdrawal of 200 made from account 540001. New balance: 7000.00
+2024-11-06 11:23:47,530 - INFO - Withdrawal operation completed.
+2024-11-06 11:23:53,191 - INFO - Displayed transaction history for account 540001
+2024-11-06 11:24:01,244 - INFO - Database connection closed.
+2024-11-06 11:24:01,244 - INFO - User logged out.
+2024-11-06 11:49:19,100 - INFO - User 540001 logged in successfully.
+2024-11-06 11:49:27,389 - INFO - Balance check for account 540001. Balance: 7000.00
+2024-11-06 11:49:27,390 - INFO - Balance check operation completed.
+2024-11-06 11:49:32,236 - INFO - Database connection closed.
+2024-11-06 11:49:32,237 - INFO - User  logged out.
+2024-11-06 12:03:05,319 - ERROR - Invalid age entered: re
+2024-11-06 12:03:13,550 - ERROR - Invalid email entered: kk
+2024-11-06 12:03:17,486 - ERROR - Invalid email entered: l
+2024-11-06 12:03:23,047 - ERROR - Invalid email entered: @e.com
+2024-11-06 12:03:34,532 - ERROR - Invalid email entered: @gmail.com
+2024-11-06 12:03:44,929 - ERROR - Invalid phone number entered: 234354
+2024-11-06 12:03:54,641 - ERROR - Invalid password format.
+2024-11-06 13:30:17,738 - ERROR - Invalid age entered: er
+2024-11-06 13:30:21,226 - ERROR - Address field cannot be empty.
+2024-11-06 13:30:31,028 - ERROR - Invalid phone number entered: 322
+2024-11-06 13:30:39,373 - ERROR - Invalid password format.
+2024-11-06 14:15:43,302 - WARNING - Failed login attempt.
+2024-11-06 14:16:10,255 - WARNING - Failed login attempt.
+2024-11-06 14:19:51,329 - ERROR - Invalid input during login.
+2024-11-06 14:19:57,844 - WARNING - Failed login attempt due to invalid password.
+2024-11-06 14:20:08,297 - INFO - User  540001 logged in successfully.
+2024-11-06 14:22:46,758 - INFO - Balance check for account 540001. Balance: 7000.00
+2024-11-06 14:22:46,758 - INFO - Balance check operation completed.
+2024-11-06 14:22:48,716 - INFO - Database connection closed.
+2024-11-06 14:22:48,716 - INFO - User  logged out.
+2024-11-06 14:25:07,679 - INFO - User  540002 logged in successfully.
+2024-11-06 14:25:10,065 - INFO - Balance check for account 540002. Balance: 3420.00
+2024-11-06 14:25:10,066 - INFO - Balance check operation completed.
+2024-11-06 14:25:19,639 - INFO - Deposit of 580 made to account 540002. New balance: 4000.00
+2024-11-06 14:25:19,639 - INFO - Deposit operation completed.
+2024-11-06 14:25:40,226 - ERROR - Invalid receiver account number entered: 540
+2024-11-06 14:25:48,854 - INFO - Transfer of 500 from account 540002 to account 540001 successful.
+2024-11-06 14:25:52,354 - INFO - Displayed transaction history for account 540002
+2024-11-06 14:26:02,187 - INFO - Database connection closed.
+2024-11-06 14:26:02,187 - INFO - User  logged out.
+2024-11-15 11:39:17,887 - ERROR - Invalid age entered: ko
+2024-11-15 11:39:24,387 - ERROR - Invalid age entered: -2
+2024-11-15 11:54:01,766 - ERROR - Invalid email entered: opo
+2024-11-15 11:54:16,324 - ERROR - Invalid phone number entered: io
+2024-11-15 11:54:33,612 - INFO - Account 540017 created successfully for user Arya Jain.
+2024-11-15 11:54:40,781 - ERROR - Invalid input during login.
+2024-11-15 11:56:13,415 - WARNING - Failed login attempt due to invalid password.
+2024-11-15 11:56:23,705 - INFO - User  540017 logged in successfully.
+2024-11-15 11:56:27,970 - INFO - Balance check for account 540017. Balance: 0.00
+2024-11-15 11:56:27,971 - INFO - Balance check operation completed.
+2024-11-15 11:56:33,429 - INFO - Deposit of 500 made to account 540017. New balance: 500.00
+2024-11-15 11:56:33,429 - INFO - Deposit operation completed.
+2024-11-15 11:56:39,239 - INFO - Withdrawal of 200 made from account 540017. New balance: 300.00
+2024-11-15 11:56:39,240 - INFO - Withdrawal operation completed.
+2024-11-15 11:57:02,839 - INFO - Transfer of 100 from account 540017 to account 540002 successful.
+2024-11-15 11:57:10,122 - INFO - Displayed transaction history for account 540017
+2024-11-15 11:57:13,775 - INFO - Database connection closed.
+2024-11-15 11:57:13,776 - INFO - User  logged out.

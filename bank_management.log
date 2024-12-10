@@ -132,3 +132,6 @@
 2024-11-15 11:57:10,122 - INFO - Displayed transaction history for account 540017
 2024-11-15 11:57:13,775 - INFO - Database connection closed.
 2024-11-15 11:57:13,776 - INFO - User  logged out.
+2024-12-10 17:35:10,298 - INFO - User  540001 logged in successfully.
+2024-12-10 17:35:24,652 - INFO - Balance check for account 540001. Balance: 7450.00
+2024-12-10 17:35:24,652 - INFO - Balance check operation completed.

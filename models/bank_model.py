@@ -1,6 +1,10 @@
+import os 
 import pymysql
 from log import logger
 from decimal import Decimal
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class BankModel:
     """
@@ -12,10 +16,10 @@ class BankModel:
         Initializes the database connection.
         """
         self.connection = pymysql.connect(
-            host='localhost',
-            user='root',
-            password='root',
-            database='bank'
+            host= os.getenv("DB_HOST") ,
+            user=os.getenv("DB_USERNAME"),
+            password=os.getenv("DB_PASSWORD"),
+            database=os.getenv("DB_NAME")
         )
         self.cursor = self.connection.cursor()
 

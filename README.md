@@ -35,8 +35,8 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository:
 
 ```
-git clone https://github.com/SanketUpadhyay01/Bank_Management_System.git
-cd bank_management_pdbc
+git clone https://github.com/SanketUpadhyay01/Bank_Management_pdbc.git
+cd Bank_Management_pdbc
 ```
 
 Install the required dependencies:
